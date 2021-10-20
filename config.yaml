@@ -1,7 +1,7 @@
 baseURL: https://sophie-touami-website.netlify.app/
 languageCode: en-us
 title: Sophie Touami's website
-theme: Sophie Touami
+theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
