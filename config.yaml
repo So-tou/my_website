@@ -89,9 +89,9 @@ params:
         title: Working experience
         url: blogs/workingexperience
       - image: pic02.jpg
-        subtitle: Discover worldwide trips
+        subtitle: Discover my worldwide trips
         title: Travel
-        url: blogs/magna
+        url: blogs/travel
       - image: volunteer.jpg
         subtitle: REFM - MEC
         title: Volunteering
