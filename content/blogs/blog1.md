@@ -5,10 +5,16 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
-image: mena.jpg
+image: lbs.jpg
 keywords: ""
 slug: academicexperience
 title: Academic experience
 ---
 
-I am currenlty the VP of the LBS Middle East Club. The Middle East Club is an assoication helping LBS students to learn more about Middle East and to help them to build a working experience in Middle East. I am an active member of the REFM since 2012. REFM is a network that aims to develop French and North-African accounting relationship. This network also helps newly accountants and chartered accountants to find professional opportunities.  When I joined LBS, I participate in the away day where we fixed a children's park and we planted flowers.
+I am studying the Masters in Financial Analysis programme at London Business School. In this prestigious school, in the heart of London, I have the opportunity to deepen my knowledge in Finance, to have working opportunities, and to study my favourite course, which is Data Analytics, taught by the best teacher !
+
+
+After high school, I decide to study a dual bachelor degree in International Management and in Business Administrations. I studied two years at NEOMA Business School, in France and I studied in the University of International Business and Economics in Beijing, China. In the University of International Business and Economics, all the programme was taught in Mandarin. Thanks to this dual degree, I have a French diploma and Chinese diploma.
+
+image: uibe.jpg
+image: neoma.jpg
