@@ -88,9 +88,9 @@ params:
         subtitle: my resume
         title: Working experience
         url: blogs/workingexperience
-      - image: skills.jpg
-        subtitle: Positive, multi-linguistics, hardworking
-        title: Skills
+      - image: pic02.jpg
+        subtitle: Discover worldwide trips
+        title: Travel
         url: blogs/magna
       - image: volunteer.jpg
         subtitle: REFM - MEC
