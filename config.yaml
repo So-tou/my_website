@@ -87,7 +87,7 @@ params:
       - image: work.jpg
         subtitle: my resume
         title: Working experience
-        url: blogs/tempus
+        url: blogs/workingexperience
       - image: skills.jpg
         subtitle: Positive, multi-linguistics, hardworking
         title: Skills
