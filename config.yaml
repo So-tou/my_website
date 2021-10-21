@@ -96,14 +96,7 @@ params:
         subtitle: REFM - MEC
         title: Volunteering
         url: blog1.md
-      - image: #
-        subtitle: #
-        title: #
-        url: #
-      - image: #
-        subtitle: #
-        title: #
-        url: #
+
   two:
     buttonText: My resume
     enable: yes
