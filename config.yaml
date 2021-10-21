@@ -68,8 +68,8 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: About me
-        url: Who I am
+      - name: #
+        url: #
       - name: #
         url: #
       - name: #
@@ -98,13 +98,13 @@ params:
         url: blogs/volunteering
 
   two:
-    buttonText: My resume
+    buttonText: Get Started
     enable: yes
-    subtitle: "I studied half of my undergraduate studies in Mandarin in Beijing.
+    subtitle: "I am a Moroccan student, born in France. I studied half of my undergraduate studies in Mandarin in Beijing.
       \n    I even undertook courses designed for Chinese native speakers and I passed thanks to my hardwork. \n    After my graduation,
       I found a full-time position, as a fund accountant (speicalised in private equity, real estate, securities), in Luxembourg, at the height of the pandemic. Last August, I joined the Masters in Financial Analysis programme at London Business School. 
       \n    I am currently looking for a summer internship in Investment banking division.
-      \n    For further information, please click on the below button to find my resume.
+      \n    For further information, please find my resume in the work experience.
       ."
-    title: A Motivated and Hardworking student
+    title: About Me
     url: blogs
