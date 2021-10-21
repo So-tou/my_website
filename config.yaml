@@ -95,7 +95,7 @@ params:
       - image: volunteer.jpg
         subtitle: REFM - MEC
         title: Volunteering
-        url: blog1.md
+        url: blogs/volunteering
 
   two:
     buttonText: My resume
