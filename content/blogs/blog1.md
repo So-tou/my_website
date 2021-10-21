@@ -16,5 +16,5 @@ I am studying the Masters in Financial Analysis programme at London Business Sch
 
 After high school, I decide to study a dual bachelor degree in International Management and in Business Administrations. I studied two years at NEOMA Business School, in France and I studied in the University of International Business and Economics in Beijing, China. In the University of International Business and Economics, all the programme was taught in Mandarin. Thanks to this dual degree, I have a French diploma and Chinese diploma.
 
-image: uibe.jpg
-image: neoma.jpg
+uibe.jpg
+neoma.jpg
