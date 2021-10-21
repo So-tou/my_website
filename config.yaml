@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
       Student in the Masters in Financial Analysis at London Business School
-    title: Hi, my name is Sophie Touami
+    title: Sophie Touami's website
   blog: {Sophie Touami: Student of the LBS, lokking for opportunities in IBD}
   contact:
     address:
@@ -41,13 +41,13 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
+      - icon: #
         label: Twitter
         url: #
-      - icon: fa-facebook
+      - icon: #
         label: Facebook
         url: #
-      - icon: fa-instagram
+      - icon: #
         label: Instagram
         url: #
       - icon: fa-github
@@ -63,16 +63,16 @@ params:
       - name: Get Started
         url: blogs
     button2:
-      - name: Log In
+      - name: My Resume 
         url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
+      - name: About me
         url: Who I am
-      - name: Generic Blog
-        url: My resume
-      - name: Elements
+      - name: #
+        url: #
+      - name: #
         url: My projects
     menu: Menu
     subtitle: By HTML5 Up
@@ -105,13 +105,13 @@ params:
         title: Hobbies
         url: blogs/ipsum
   two:
-    buttonText: Get Started
+    buttonText: My resume
     enable: yes
-    subtitle: "Before joining the prestigious London Business School, I graduated from a dual bachelor degree in Business Administration and International Mangement.
-      \n    I studied at NEOMA Business School in France and I studied in the University of International Business and Economics in Beijing, China. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
+    subtitle: "I studied half of my undergraduate studies in Mandarin in Beijing.
+      \n    I even undertook courses designed for Chinese native speakers and I passed thanks to my hardwork. \n    After my graduation,
+      I found a full-time position, as a fund accountant (speicalised in private equity, real estate, securities), in Luxembourg, at the height of the pandemic. Last August, I joined the Masters in Financial Analysis programme at London Business School. 
+      \n    I am currently looking for a summer internship in Investment banking division.
+      \n    For further information, please click on the below button to find my resume.
+      ."
     title: A Motivated and Hardworking student
     url: blogs
