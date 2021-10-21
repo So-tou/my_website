@@ -1,7 +1,7 @@
 ---
 title: "Academic experience"
 description: ""
-slug: "ipsum"
+slug: "academicexperience"
 image: mena.jpg
 keywords: ""
 categories: 

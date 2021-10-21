@@ -83,7 +83,7 @@ params:
       - image: lbs.jpg
         subtitle: Double degree bachelor and Masters in Finance
         title: Academic experience
-        url: blog1.md
+        url: blogs/academicexperience
       - image: work.jpg
         subtitle: my resume
         title: Working experience
