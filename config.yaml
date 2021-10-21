@@ -96,13 +96,13 @@ params:
         subtitle: REFM - MEC
         title: Volunteering
         url: blog1.md
-      - image: pic02.jpg
-        subtitle: Discover my past trips
-        title: Travel
+      - image: #
+        subtitle: #
+        title: #
         url: blogs/ipsum
-      - image: hobbies.jpg
+      - image: #
         subtitle: Learn more about what I like
-        title: Hobbies
+        title: #
         url: blogs/ipsum
   two:
     buttonText: My resume
