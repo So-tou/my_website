@@ -5,7 +5,7 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner: sofia.jpg
+  banner: 
     buttonText: Get Started
     subtitle: |-
       Student in the Masters in Financial Analysis at London Business School
