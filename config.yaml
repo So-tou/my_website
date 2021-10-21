@@ -63,8 +63,8 @@ params:
       - name: Get Started
         url: blogs
     button2:
-      - name: My Resume 
-        url: '#'
+      - name: About Me 
+        url: blogs
     links:
       - name: Home
         url: '#'
