@@ -99,11 +99,11 @@ params:
       - image: #
         subtitle: #
         title: #
-        url: blogs/ipsum
+        url: #
       - image: #
-        subtitle: Learn more about what I like
+        subtitle: #
         title: #
-        url: blogs/ipsum
+        url: #
   two:
     buttonText: My resume
     enable: yes
