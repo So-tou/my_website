@@ -1,7 +1,7 @@
 ---
-title: "Academic experience"
+title: Academic experience
 description: ""
-slug: "academicexperience"
+slug: academicexperience
 image: mena.jpg
 keywords: ""
 categories: 

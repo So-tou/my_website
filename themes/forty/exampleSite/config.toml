@@ -93,7 +93,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Academic experience"
-      subtitle = "Ipsum Dolor Sit Amet"
+      subtitle = "Double degree bachelor and Masters in Finance"
       image = "pic01.jpg"
       url = "blogs/academicexperience"
 
